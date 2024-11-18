@@ -1,4 +1,7 @@
-# Neobook Docker Kali Linux Integration
+# Интеграция Neobook с Docker для Kali Linux
+
+**Важно:** Так как гитхаб не позволяет пушить файлы более 100 мб, все зависимые файлы и более подробную инструкцию я выложу на гугл диск https://drive.google.com/drive/folders/1cDSdj36ei8XNzQ1dIXAusva23Ncxpgaw?usp=drive_link .
+С него же берутся некоторые файлы для скомпилированного проекта
 
 ## Идея проекта
 
